@@ -4,7 +4,9 @@
 
 Profesional especializado en análisis de datos y desarrollo de modelos de Machine Learning para apoyar la toma de decisiones estratégicas.  
 Me enfoco en transformar datos en información clara, accionable y con impacto en negocio.
+<br>
 ///
+<br>
 Professional specialized in data analysis and Machine Learning model development to support strategic decision-making.  
 I focus on transforming raw data into clear, actionable insights that drive business impact.
 

@@ -1,71 +1,42 @@
-### soy Jorge
+# 👋 Hi, I'm Jorge
 
 🎯 Data Analyst | Data Scientist | Machine Learning  
 
-Profesional especializado en análisis de datos y desarrollo de modelos de Machine Learning para apoyar la toma de decisiones estratégicas.  
-Me enfoco en transformar datos en información clara, accionable y con impacto en negocio.
-<br>
-///
-<br>
-Professional specialized in data analysis and Machine Learning model development to support strategic decision-making.  
-I focus on transforming raw data into clear, actionable insights that drive business impact.
+Data professional specialized in analytics and Machine Learning, focused on transforming complex datasets into actionable insights that drive business decisions.
 
+I build end-to-end data solutions — from data cleaning and exploratory analysis to predictive modeling and visualization.
 
 ---
 
-## 🚀 ¿Qué hago?
-## 🚀 What I Do
+## 🚀 Core Skills
 
-- 📊 Análisis exploratorio de datos (EDA)
 - 📊 Exploratory Data Analysis (EDA)
-- 🧹 Limpieza y preparación de datos
-- 🧹 Data cleaning and preprocessing
-- 📈 Visualización de datos
-- 📈 Data visualization
-- 🤖 Desarrollo de modelos de Machine Learning
-- 🤖  Machine Learning model development
-- 📉 Modelos de clasificación y regresión
-- 📉 Classification and regression models
-- 📊 Creación de dashboards
-- 📊 Dashboard creation
-
+- 🧹 Data Cleaning & Preprocessing
+- 🤖 Machine Learning (Classification & Regression)
+- 📈 Predictive Modeling
+- 📊 Dashboard Development
+- 🧠 Business-Oriented Data Analysis
 
 ---
 
-## 🛠️ Tecnologías y herramientas
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-- **Lenguajes // Languages:** Python, SQL  
-- **Librerías // Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **Machine Learning:** Modelos supervisados y no supervisados  
-- **Visualización // Visualization:** Power BI  
-- **Otros // others :** Git, GitHub, Jupyter Notebook  
+**Languages:** Python, SQL  
+**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+**BI Tools:** Power BI  
+**Tools:** Git, GitHub, Jupyter Notebook  
 
 ---
 
-## 📂 Proyectos Destacados
-## 📂 Featured Projects
+## 📂 Portfolio Projects
 
-Aquí encontrarás proyectos donde aplico análisis de datos y modelos predictivos para resolver problemas reales de negocio.
+🔹 Customer Churn Prediction Model  
+🔹 Telecommunications Data Analysis  
+🔹 End-to-End Data Science Projects  
+🔹 Business-focused Predictive Modeling  
 
-🔹 Análisis de churn de clientes  
-🔹 Modelos de predicción  
-🔹 Análisis de datos de telecomunicaciones  
-🔹 Proyectos de ciencia de datos end-to-end  
-
-(Próximamente agregaré proyectos optimizados y documentados profesionalmente.)
-///
-Here you will find projects where I apply data analysis and predictive modeling to solve real business problems.
-
-🔹 Customer churn analysis  
-🔹 Predictive modeling projects  
-🔹 Telecommunications data analysis  
-🔹 End-to-end data science projects  
-
-(Upcoming: fully optimized and professionally documented portfolio projects.)
+More professionally structured and documented projects coming soon.
 
 ---
 
-⭐ Siempre abierto a oportunidades en Data Analytics, BI y Data Science.
-///
-⭐ Open to opportunities in Data Analytics, BI, and Data Science.
+⭐ Open to remote opportunities in Data Analytics, BI, and Data Science.
